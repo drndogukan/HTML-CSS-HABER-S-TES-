@@ -1,0 +1,76 @@
+body header{
+    background-color: red;
+}
+.drn div span {
+    display: block;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.drnn {
+    width: 100%;
+    display: table;
+    
+}
+
+.drn  .drnn div span {
+    display: block;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.drn .drnn div {
+    display: table-cell;
+    width: 33%;
+    color: white;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.drn {
+width: 100%;
+overflow: hidden;
+background-color: red;
+background-position: unset;
+color: white;
+border-color: white;
+border-style: inset;
+border-width: 1px;
+}
+
+
+.social {
+	margin: 0 auto;
+	width: 600px;
+	text-align: center;
+}
+[class^="icon-btn"]  {
+	height: 35px;
+	width: 35px;
+	border: 0;
+	cursor: pointer;
+	font-size: 25px;
+	line-height: 35px;
+	border-radius: 30px;
+	margin-left: 10px;
+	background-color: #e8ecf3;
+}
+.twitter {
+	color: #4099FF;
+}
+.discord {
+	color: #7289da;
+}
+.instagram {
+	color: #c32aa3;
+}
+.youtube {
+	color: #ff0000;
+}
+
+a.link {
+	color: inherit;	
+} 
+.css{
+    background-color: #e8ecf3;
+}
